@@ -10,7 +10,7 @@ console.log("Ahora estas en la matrix "+ nombre);
 ```
 
 ### EVIDENCIA 
-![1](Imagenes/Ejercicio1.PNG)
+![1](Imagenes/Ejercicio1.png)
 
 ## EJERCICIO 2
 
@@ -24,7 +24,7 @@ console.log("El resultado de la suma es: "+ suma);
 ```
 
 ### EVIDENCIA 
-![1](Imagenes/Ejercicio2.PNG)
+![1](Imagenes/Ejercicio2.png)
 
 ## EJERCICIO 3
 
@@ -41,7 +41,7 @@ console.log("El resultado de la multiplicacion es: "+ tostring(mul));
 ```
 
 ### EVIDENCIA 
-![3](Imagenes/Ejercicio3.PNG)
+![3](Imagenes/Ejercicio3.png)
 
 ## EJERCICIO 4
 
@@ -55,7 +55,7 @@ console.log("El combustible consumido por kilometros es igual a : " + con + " li
 ```
 
 ### EVIDENCIA 
-![4](Imagenes/Ejercicio4.PNG)
+![4](Imagenes/Ejercicio4.png)
 
 ## EJERCICIO 5 
 
@@ -68,7 +68,7 @@ console.log("La temperatura en celsius es : " + celsius);
 ```
 
 ### EVIDENCIA 
-![5](Imagenes/Ejercicio5.PNG)
+![5](Imagenes/Ejercicio5.png)
 
 
 ## EJERCICIO 6
@@ -84,7 +84,7 @@ console.log("El promedio es : " + pro);
 ```
 
 ### EVIDENCIA
-![6](Imagenes/Ejercicio6.PNG)
+![6](Imagenes/Ejercicio6.png)
 
 ## EJERCICIO 7
 
@@ -97,7 +97,7 @@ console.log("Con el descuento queda en:  " + num1);
 ```
 
 ### EVIDENCIA
-![7](Imagenes/Ejercicio7.PNG)
+![7](Imagenes/Ejercicio7.png)
 
 ## EJERCICIO 8
 
@@ -110,7 +110,7 @@ pal1 +" "+pal2;
 ```
 
 ### EVIDENCIA
-![8](Imagenes/Ejercicio8.PNG)
+![8](Imagenes/Ejercicio8.png)
 
 ## EJERCICIO 9
 
@@ -124,7 +124,7 @@ Escribir un programa que solicite al usuario el ingreso de un texto y almacene e
 ```
 
 ### EVIDENCIA
-![9](Imagenes/Ejercicio9.PNG)
+![9](Imagenes/Ejercicio9.png)
 
 ## EJERCICIO 10
 
@@ -136,7 +136,7 @@ cant >3;
 ```
 
 ### EVIDENCIA
-![10](Imagenes/Ejercicio10.PNG)
+![10](Imagenes/Ejercicio10.png)
 
 ## EJERCICIO 11
 
@@ -148,7 +148,7 @@ fecha.charAt(0)+fecha.charAt(1)+"/"+ fecha.charAt(2)+fecha.charAt(3)+"/"+ fecha.
 ```
 
 ### EVIDENCIA
-![11](Imagenes/Ejercicio11.PNG)
+![11](Imagenes/Ejercicio11.png)
 
 ## EJERCICIO 12
 
@@ -161,7 +161,7 @@ Escribir un programa para solicitar al usuario el ingreso de un número Entero y
 ```
 
 ### EVIDENCIA
-![12](Imagenes/Ejercicio12.PNG)
+![12](Imagenes/Ejercicio12.pngpng)
 
 ## EJERCICIO 13
 
@@ -174,7 +174,7 @@ edad > 18 && art > 1;
 ```
 
 ### EVIDENCIA
-![13](Imagenes/Ejercicio13.PNG)
+![13](Imagenes/Ejercicio13.pngpng)
 
 ## EJERCICIO 14
 
@@ -191,7 +191,7 @@ else {
 ```
 
 ### EVIDENCIA
-![14](Imagenes/Ejercicio14.PNG)
+![14](Imagenes/Ejercicio14.pngpng)
 
 ## EJERCICIO 15
 
@@ -209,7 +209,7 @@ var pal1= prompt("Ingrese la palabra 1");
 ```
 
 ### EVIDENCIA
-![15](Imagenes/Ejercicio15.PNG)
+![15](Imagenes/Ejercicio15.png)
 
 ## EJERCICIO 16
 
@@ -222,7 +222,7 @@ var nom2= prompt("Ingrese el nombre de otra persona");
 ```
 
 ### EVIDENCIA
-![16](Imagenes/Ejercicio16.PNG)
+![16](Imagenes/Ejercicio16.png)
 
 ## EJERCICIO 17
 
@@ -243,7 +243,7 @@ var num= prompt("Ingrese un numero entero");
 ```
 
 ### EVIDENCIA
-![17](Imagenes/Ejercicio17.PNG)
+![17](Imagenes/Ejercicio17.png)
 
 ## EJERCICIO 18
 
@@ -267,7 +267,7 @@ else{
 ```
 
 ### EVIDENCIA
-![18](Imagenes/Ejercicio18.PNG)
+![18](Imagenes/Ejercicio18.png)
 
 ## EJERCICIO 19
 
@@ -287,7 +287,7 @@ if (voc.length>1){
 ```
 
 ### EVIDENCIA
-![19](Imagenes/Ejercicio19.PNG)
+![19](Imagenes/Ejercicio19.png)
 
 ## EJERCICIO 20
 
@@ -301,4 +301,4 @@ Math.min (num1, num2, num3)
 ```
 
 ### EVIDENCIA
-![20](Imagenes/Ejercicio20.PNG)
+![20](Imagenes/Ejercicio20.png)
