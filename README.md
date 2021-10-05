@@ -161,7 +161,7 @@ Escribir un programa para solicitar al usuario el ingreso de un número Entero y
 ```
 
 ### EVIDENCIA
-![12](Imagenes/Ejercicio12.pngpng)
+![12](Imagenes/Ejercicio12.png)
 
 ## EJERCICIO 13
 
@@ -174,7 +174,7 @@ edad > 18 && art > 1;
 ```
 
 ### EVIDENCIA
-![13](Imagenes/Ejercicio13.pngpng)
+![13](Imagenes/Ejercicio13.png)
 
 ## EJERCICIO 14
 
@@ -191,7 +191,7 @@ else {
 ```
 
 ### EVIDENCIA
-![14](Imagenes/Ejercicio14.pngpng)
+![14](Imagenes/Ejercicio14.png)
 
 ## EJERCICIO 15
 
